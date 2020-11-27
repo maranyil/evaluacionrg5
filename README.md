@@ -1,1 +1,3 @@
-# evaluacion_rg5
+#Este es el proyecto de evaluación 
+
+Primera semana en Rockstars g5
